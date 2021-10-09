@@ -1,2 +1,2 @@
 # Sample
-Sample repo creation
+Sample repo creation for beginners.
